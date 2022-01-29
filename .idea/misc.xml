@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_air_destination.xml" value="0.2" />
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_air_no_of_stops.xml" value="0.2" />
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_air_plane.xml" value="0.14375" />
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_air_source.xml" value="0.2" />
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_arrival_time.xml" value="0.14375" />
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_departure_date.xml" value="0.264" />
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_departure_time.xml" value="0.264" />
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MiniProject/app/src/main/res/layout/activity_predict.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_air_destination.xml" value="0.15" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_air_no_of_stops.xml" value="0.18" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_air_plane.xml" value="0.1" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_air_source.xml" value="0.15" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_arrival_time.xml" value="0.18" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_departure_date.xml" value="0.22" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_departure_time.xml" value="0.25" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_predict.xml" value="0.1" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/MiniProject/app/src/main/res/layout/activity_source.xml" value="0.15" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
